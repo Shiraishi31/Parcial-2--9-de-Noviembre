@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\bin\Debug\net10.0\Punto2_Json.exe
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\bin\Debug\net10.0\Punto2_Json.deps.json
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\bin\Debug\net10.0\Punto2_Json.runtimeconfig.json
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\bin\Debug\net10.0\Punto2_Json.dll
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\bin\Debug\net10.0\Punto2_Json.pdb
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_J.70427515.Up2Date
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.dll
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\refint\Punto2_Json.dll
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.pdb
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\Punto2_Json.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Escritorio\Parcial_2_Christian Arce\Parcial_3\Punto2_Json\obj\Debug\net10.0\ref\Punto2_Json.dll
